@@ -56,3 +56,7 @@ eg- How to setup Github provider.
 `https://authjs.dev/guides/configuring-github`
 
 
+Sign-in, 
+Sign-out, 
+User-Avator components can be use to basic user actions
+
